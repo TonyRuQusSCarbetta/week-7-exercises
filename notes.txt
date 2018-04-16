@@ -1,0 +1,30 @@
+
+// for homework
+// get all the signs
+
+var capricorn = {
+title: 'Capricorn',
+img: '/path/to/my_img',
+blurb: 'You are great!'
+}
+
+
+
+
+title.textContent =capricorn.title;
+blurb.textContent =capricorn.blurb;
+img.src = capricorn.img;
+
+
+or
+
+loop through the array of items.
+
+don't forget .toLowerCase()
+
+
+== myArray[i].title
+
+than
+
+getElementById and print the properties
